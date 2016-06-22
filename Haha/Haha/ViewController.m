@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "GLProgram.h"
 
 @interface ViewController ()
 
@@ -24,6 +25,7 @@
 //    acl_get_fd(ds)
     
     UIView *view = [UIView new];
+    
 }
 
 - (void)didReceiveMemoryWarning {
